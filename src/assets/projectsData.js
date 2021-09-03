@@ -30,6 +30,6 @@ export const projectsData = [
       "As a developer/designer, we should definitely have our own portfolio website. There are endless benefits.Here,anyone can checkout my profile",
     imageUrl: require("./proj4.png"),
 
-    projectUrl: "",
+    projectUrl: "#",
   },
 ];
